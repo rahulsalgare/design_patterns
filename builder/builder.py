@@ -114,8 +114,6 @@ class Director:
         builder.reset()
         builder.set_seats(4)
         builder.set_engine()
-        builder.set_trip_computer()
-        builder.set_gps()
 
 
 if __name__ == '__main__':
